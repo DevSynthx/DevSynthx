@@ -7,13 +7,17 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Etoedia#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Etoedia#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/inyene-etoedia#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/inyene-etoedia#gh-dark-mode-only)
-&nbsp;&nbsp;
+<br><br>
+<a href="https://twitter.com/Etoedia">
+  <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/inyene-etoedia/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+
+</a>
+<br><br>
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEtoedia&show_icons=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEtoedia)](https://github.com/anuraghazra/github-readme-stats)
