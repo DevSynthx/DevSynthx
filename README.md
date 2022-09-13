@@ -15,4 +15,4 @@
 </a>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEtoedia&show_icons=true&count_private=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEtoedia&show_icons=true&count_private=true&theme=dark)
