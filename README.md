@@ -6,7 +6,6 @@
 - ⚡ Fun fact: I love to play basketball and video game
 
 ### Connect with me:
-
 <br><br>
 <a href="https://twitter.com/Etoedia">
   <img align="left" alt="akd's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
@@ -17,7 +16,4 @@
 </a>
 <br><br>
 
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEtoedia&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidEtoedia)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEtoedia&show_icons=true&count_private=true&theme=dracula)
