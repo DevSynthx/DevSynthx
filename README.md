@@ -13,8 +13,8 @@
 </a>
 
 ### Articles:
-<a href="https://medium.com/@etoedia/how-to-setup-maestro-ui-automation-in-flutter-14770f63bc61">
-    How to Setup Maestro UI Automation in Flutter
-</a>
+Check out my latest article:
+
+- [How to Setup Maestro UI Automation in Flutter](https://medium.com/@etoedia/how-to-setup-maestro-ui-automation-in-flutter-14770f63bc61)
 
 ![Etoedia's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEtoedia&show_icons=true&count_private=true&theme=dracula)
