@@ -14,7 +14,6 @@
 
 ### Articles:
 <p>
-    Check out my article on setting up Maestro UI automation in Flutter:
     <a href="https://medium.com/@etoedia/how-to-setup-maestro-ui-automation-in-flutter-14770f63bc61">
         How to Setup Maestro UI Automation in Flutter
     </a>
