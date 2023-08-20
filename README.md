@@ -12,6 +12,14 @@
   <img align="left" alt="Etoedia's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 
+### Connect with me:
+<a href="https://twitter.com/Etoedia">
+  <img align="left" alt="Etoedia's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/inyene-etoedia/">
+  <img align="left" alt="Etoedia's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+</a>
+
 ### Articles:
 Check out my latest article:
 
