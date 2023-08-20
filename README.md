@@ -11,6 +11,13 @@
 <a href="https://www.linkedin.com/in/inyene-etoedia/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 
+ ### Articles: 
+<p>
+    Check out this informative article on setting up Maestro UI automation in Flutter:
+    <a href="https://medium.com/@etoedia/how-to-setup-maestro-ui-automation-in-flutter-14770f63bc61">
+        How to Setup Maestro UI Automation in Flutter
+    </a>
+</p>
 </a>
 <br><br>
 
