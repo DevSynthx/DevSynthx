@@ -12,8 +12,7 @@
   <img align="left" alt="Etoedia's LinkedIn" width="100px" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 
-### Articles:
-Check out my latest article:
+My article:
 
 - [How to Setup Maestro UI Automation in Flutter](https://medium.com/@etoedia/how-to-setup-maestro-ui-automation-in-flutter-14770f63bc61)
 
