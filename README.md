@@ -1,7 +1,8 @@
 ## I'm a Flutter Developer
 
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: learn Swift/SwiftUI
+- 🔭 I have strong interest in mobile app development.
+- 🥅 I am very passionate about the ios development eco system using Swift/SwiftUI
 - ⚡ Fun fact: I love to play basketball and video game
 
 ### Connect with me:
