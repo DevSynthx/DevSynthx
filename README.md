@@ -1,4 +1,4 @@
-## I'm a Flutter Developer
+## I'm a Mobile App Developer
 
 - 👯 I’m looking to collaborate with other developers
 - 🔭 I have strong interest in mobile app development.
