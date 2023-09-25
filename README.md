@@ -2,7 +2,7 @@
 
 - 👯 I’m looking to collaborate with other developers
 - 🔭 I have strong interest in mobile app development.
-- 🥅 I am very passionate about the ios development eco system using Swift/SwiftUI
+- 🥅 I am very passionate about ios development (Swift/SwiftUI) and Flutter development eco system 
 - ⚡ Fun fact: I love to play basketball and video game
 
 ### Connect with me:
@@ -21,7 +21,7 @@
 </p>
 <p>
     <a href="https://medium.com/@etoedia/exploring-the-onchange-modifier-in-swiftui-24b18034b973">
-        Exploring the onchange modifier in swiftui
+        Exploring the onchange modifier in Swiftui
     </a>
 </p>
 </a>
