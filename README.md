@@ -20,8 +20,8 @@
     </a>
 </p>
 <p>
-    <a href="https://medium.com/@etoedia/how-to-setup-maestro-ui-automation-in-flutter-14770f63bc61">
-        How to Setup Maestro UI Automation in Flutter
+    <a href="https://medium.com/@etoedia/exploring-the-onchange-modifier-in-swiftui-24b18034b973">
+        Exploring the onchange modifier in swiftui
     </a>
 </p>
 </a>
