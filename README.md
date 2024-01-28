@@ -2,7 +2,7 @@
 
 - 👯 I’m looking to collaborate with other developers
 - 🔭 I have strong interest in mobile app development.
-- 🥅 I am very passionate about ios development (Swift/SwiftUI) and Flutter development eco system 
+- 🥅 I am very passionate about ios development (Swift/SwiftUI) and Flutter development ecosystem 
 - ⚡ Fun fact: I love to play basketball and video game
 
 ### Connect with me:
