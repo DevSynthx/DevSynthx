@@ -16,7 +16,7 @@
 ### Articles: 
 <p>
     <a href="https://medium.com/@etoedia/exploring-onreceive-modifier-in-swiftui-2eff87dd40e6">
-        Exploring the onReceive modifier in Swiftui
+        Exploring onReceive modifier in Swiftui
     </a>
 </p>
 <p>
@@ -26,7 +26,7 @@
 </p>
 <p>
     <a href="https://medium.com/@etoedia/exploring-the-onchange-modifier-in-swiftui-24b18034b973">
-        Exploring the onchange modifier in Swiftui
+        Exploring onChange modifier in Swiftui
     </a>
 </p>
 </a>
