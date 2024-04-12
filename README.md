@@ -15,6 +15,11 @@
 
 ### Articles: 
 <p>
+    <a href="https://medium.com/@etoedia/exploring-onreceive-modifier-in-swiftui-2eff87dd40e6">
+        Exploring the onReceive modifier in Swiftui
+    </a>
+</p>
+<p>
     <a href="https://medium.com/@etoedia/how-to-setup-maestro-ui-automation-in-flutter-14770f63bc61">
         How to Setup Maestro UI Automation in Flutter
     </a>
