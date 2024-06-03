@@ -34,7 +34,6 @@
         Exploring onChange modifier in Swiftui
     </a>
 </p>
-</a>
 <br><br>
 
 ### GithubGist: 
