@@ -1,9 +1,9 @@
-## I'm a Mobile App Developer.
+## I'm a Mobile Software Engineer.
 
-- 👯 I’m looking to collaborate with other developers
-- 🔭 I have strong interest in mobile app development.
-- 🥅 I am very passionate about ios development (Swift/SwiftUI) and Flutter development ecosystem 
-- ⚡ Fun fact: I love to play basketball and video game
+- 👯 I’m interested in collaborating with fellow developers.
+- 🔭 Mobile app development is an area that captivates me.
+- 🥅 I'm deeply enthusiastic about iOS development using Swift/SwiftUI and the Flutter development ecosystem 
+- ⚡ Fun fact: In my spare time, I enjoy playing basketball and video games
 
 ### Connect with me:
 <a href="https://twitter.com/Etoedia">
