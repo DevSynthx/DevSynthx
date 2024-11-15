@@ -15,6 +15,11 @@
 
 ### Articles: 
 <p>
+    <a href="http://bento.me/davidetoedia">
+        Portfolio
+    </a>
+</p>
+<p>
     <a href="https://medium.com/@etoedia/strategies-for-building-reusable-views-in-swiftui-fd5716a9bf6d">
         Strategies for building reusable Views in SwiftUI
     </a>
