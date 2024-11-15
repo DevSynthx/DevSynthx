@@ -43,10 +43,10 @@
 
 ### GithubGist: 
 <p>
-    <a href="https://gist.github.com/DavidEtoedia/c298a43b1aabaff8d10b494b05e7db97">
+    <a href="https://gist.github.com/DevSynthx/c298a43b1aabaff8d10b494b05e7db97">
         Authentication Card Interaction
     </a>
 </p>
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidEtoedia&show_icons=true&count_private=true&theme=algolia)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSynthx&show_icons=true&count_private=true&theme=algolia)
