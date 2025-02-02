@@ -2,7 +2,6 @@
 
 - 👯 I’m interested in collaborating with fellow developers.
 - 🔭 Mobile app development is an area that captivates me.
-- 🥅 I'm deeply enthusiastic about iOS development using Swift/SwiftUI and the Flutter development ecosystem 
 - ⚡ Fun fact: In my spare time, I enjoy playing basketball and video games
 
 
